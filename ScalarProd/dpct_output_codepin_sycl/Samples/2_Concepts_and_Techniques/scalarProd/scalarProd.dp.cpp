@@ -94,7 +94,7 @@ int main(int argc, char **argv) {
 
   // use command-line specified CUDA device, otherwise use device with highest
   // Gflops/s
-  findCudaDevice(argc, (const char **)argv);
+  //findCudaDevice(argc, (const char **)argv);
 
   sdkCreateTimer(&hTimer);
 
