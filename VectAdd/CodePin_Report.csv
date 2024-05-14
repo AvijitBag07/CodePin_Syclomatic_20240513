@@ -1,0 +1,7 @@
+CodePin Summary
+Totally APIs count, 2
+Consistently APIs count, 2
+Most Time-consuming Kernel(CUDA), /home/tcs2/Avijit/cuda_2/cuda-samples/Samples/0_Introduction/vectorAdd/vectorAdd.cu:147:3:epilog, time:171.84
+Most Time-consuming Kernel(SYCL), /home/tcs2/Avijit/cuda_2/cuda-samples/Samples/0_Introduction/vectorAdd/vectorAdd.cu:147:3:prolog, time:0.0
+Peak Device Memory Used(CUDA), 270663680
+Peak Device Memory Used(SYCL), 270663680
